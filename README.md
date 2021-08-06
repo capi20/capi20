@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Shyam
-- 👀 I’m interested in web development
+- 👀 I’m interested in front end development
 - 🌱 I’m currently learning React 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking for new opportunity
 
 <!---
 capi20/capi20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
