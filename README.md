@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shyam
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning React 
 - 💞️ I’m looking for new opportunity
 
 <!---
