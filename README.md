@@ -2,7 +2,7 @@
 
 - 👨‍💻 Front end developer who is in love with JavaScript
 - 📚 Love to read books and talk about them
-- 👀 Currently looking for a React developer role
+- 👀 Currently working as a React developer
 
 <!---
 capi20/capi20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
