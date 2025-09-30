@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Shyam Ji Gupta](https://portfolio-shyam.web.app)
+# 👋 Hello, I'm [Shyam Ji Gupta](https://shyamji-portfolio.web.app/)
 
 🎯 **Full-Stack MERN Developer | JavaScript Enthusiast | GenAI Explorer**
 
