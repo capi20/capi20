@@ -26,7 +26,7 @@ Welcome to my GitHub! I'm a passionate full-stack developer specializing in buil
 
 **⚙️ Tools & DevOps**
 - Git & GitHub, VS Code, Postman, npm/yarn
-- Working knowledge of deployment (Vercel, Netlify, Heroku)
+- Working knowledge of deployment (render, firebase)
 
 ---
 
